@@ -12,5 +12,11 @@
 * 通过当前活动的页面提醒喝水
 * 通过浏览器通知提醒喝水
 
+# 截图
+![](./assets/001.png)
+![](./assets/002.png)
+![](./assets/003.png)
+![](./assets/004.png)
+
 # 其他
 [说明文档](https://xyccstudio.cn/books/timetodrink/)
